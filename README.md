@@ -25,7 +25,7 @@ This package contains simple devtrip download manager installer for tablets (han
 
 This package contains simple devtrip download manager installer for Mobile devices. This will have installer for Windows, Linux and ios based mobile.
 
->`With pre alpha release this application is free of cost but in future only one month subscription will be free, the cost and process will be decided later. Just need to send a generated key to my personal ID mentioned with registration process of app, And you will recive a app.key file which will registered the app with your system.`
+>`With pre alpha release this application is free of cost but in future, only one month subscription will be free, the cost and process will be decided later. Just need to send a generated key to my personal ID mentioned with registration process of app, And you will recive a app.key file which will registered the app with your system. The registration process is same with current version as well. i.e. you need to install the app and generate a key request  and send this key  to my personal id and then we will provide a app.key file which will registerd the app with your system.`
 
 #### Happy using the app.
 

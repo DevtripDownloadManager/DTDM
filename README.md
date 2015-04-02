@@ -1,5 +1,5 @@
 # DTDM
-Download Manager for PC, Tablets and Mobile powered by DevTrip Download Manager developers and its' contributers.
+Download Manager for PC, Tablets and Mobile devices, powered by DevTrip Download Manager developers and its' contributers.
 
 ## Goal
 

@@ -16,14 +16,19 @@ It provide following packages for rich usability of devtrip download manager app
 #### PC version
 
 This package contains simple devtrip download manager installer for personal computers. This will have installer for Windows, Linux and Mac based systems.
+>`TBD`
 
 #### Tablet version
 
 This package contains simple devtrip download manager installer for tablets (handheld PC). This will have installer for Windows, Linux and ios based tablets.
+>`TBD`
 
 #### Mobile version
 
 This package contains simple devtrip download manager installer for Mobile devices. This will have installer for Windows, Linux and ios based mobile.
+>`TBD`
+
+**Note : **
 
 >`With pre alpha release this application is free of cost but in future, only one month subscription will be free, the cost and process will be decided later. Just need to send a generated key to my personal ID mentioned with registration process of app, And you will recive a app.key file which will registered the app with your system. The registration process is same with current version as well. i.e. you need to install the app and generate a key request  and send this key  to my personal id and then we will provide a app.key file which will registerd the app with your system.`
 

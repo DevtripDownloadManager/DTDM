@@ -23,7 +23,7 @@ Download **DTDM.air** to use AIR based installer with your system.
 
 #### zip Package
 
-Download **DTDM.zip** package to use app without installing it with your system. Just unzip the package on your hard drive and double click the DTDM application.
+Download **DTDM.zip** package to use app without installing it with your system. Just unzip the package on your hard drive and double click the DTDM application icon.
 
 #### Note :
 

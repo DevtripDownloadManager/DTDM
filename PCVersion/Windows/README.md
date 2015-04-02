@@ -11,7 +11,7 @@ It provide following packages for rich usability of devtrip download manager app
 
 1. [exe Installer](#exe-installer)
 2. [air Installer](#air-installer)
-3. [Installation package](#installation-package)
+3. [zip Package](#zip-package)
 
 #### exe Installer
 
@@ -21,9 +21,9 @@ Download **DTDM.exe** to use exe installer with your system.
 
 Download **DTDM.air** to use AIR based installer with your system.
 
-#### Installation package
+#### zip Package
 
-Download **DTDM** package to use app without installing it with your system.
+Download **DTDM.zip** package to use app without installing it with your system. Just unzip the package on your hard drive and double click the DTDM application.
 
 #### Note :
 

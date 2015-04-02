@@ -29,4 +29,4 @@ This package contains simple devtrip download manager installer for Mobile devic
 
 #### Happy using the app.
 
->`It will not contain/display any advertisement or advertisement installer with your system.`
+>`It will not contain/display any advertisement or will install any advertisement installer with your system.`

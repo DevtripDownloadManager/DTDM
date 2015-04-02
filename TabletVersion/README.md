@@ -3,7 +3,7 @@ Download Manager for personal computers, powered by DevTrip Download Manager dev
 
 ## Goal
 
-This packages provide a download manager application, which can easily be installed with Windows, Linux and Mac based personal computers.
+This packages provide a download manager application, which can easily be installed with Windows, Linux and IOS based PC tablets.
 
 ## Packages 
 

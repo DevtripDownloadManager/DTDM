@@ -9,7 +9,16 @@ This packages provide a download manager application, which can easily be instal
 
 It provide following packages for rich usability of devtrip download manager app 
 
+1. [dmg Installer](#dmg-installer)
+2. [air Installer](#air-installer)
+
+#### dmg Installer
+
 >`TBD`
+
+#### air Installer
+
+Download **DTDM.air** to use AIR based installer with your system.
 
 #### Note :
 

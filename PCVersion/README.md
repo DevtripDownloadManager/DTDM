@@ -26,7 +26,7 @@ This package contains simple devtrip download manager installer for Linux based 
 #### Mac version
 
 This package contains simple devtrip download manager installer for Mac based personal computers.
->`TBD`
+>`Available [Registration will not supported - (TBD)]`
 
 #### Note :
 

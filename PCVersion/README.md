@@ -21,12 +21,12 @@ This package contains simple devtrip download manager installer for Windows base
 #### Linux version
 
 This package contains simple devtrip download manager installer for Linux based personal computers. 
->`TBD`
+>`Available AIR based Installer [Native Installer TBD]`
 
 #### Mac version
 
 This package contains simple devtrip download manager installer for Mac based personal computers.
->`Available [Registration will not supported - (TBD)]`
+>`Available AIR based Installer [Native Installer TBD]`
 
 #### Note :
 

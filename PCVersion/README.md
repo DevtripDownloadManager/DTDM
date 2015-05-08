@@ -1,6 +1,8 @@
 # DTDM Installer for PC
 Download Manager for personal computers, powered by DevTrip Download Manager developers and its' contributers.
 
+![](https://cdn.rawgit.com/kavindraD/devtripVideo/master/simple/FlashVideoPlayer/Flash-AS3/doc/img/icon128x128.png)
+
 ## Goal
 
 This packages provide a download manager application, which can easily be installed with Windows, Linux and Mac based personal computers.

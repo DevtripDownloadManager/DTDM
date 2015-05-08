@@ -1,9 +1,19 @@
 # DTDM Windows PC Installer
 Download Manager for Windows based personal computers, powered by DevTrip Download Manager developers and its' contributers.
 
+![](https://cdn.rawgit.com/kavindraD/devtripVideo/master/simple/FlashVideoPlayer/Flash-AS3/doc/img/icon128x128.png)
+
 ## Goal
 
 This packages provide a download manager application, which can easily be installed with windows based personal computers.
+
+#### Download Screen 
+
+![](https://cdn.rawgit.com/kavindraD/devtripVideo/master/simple/FlashVideoPlayer/Flash-AS3/doc/img/DTDM-D.png)
+
+#### History Screen 
+
+![](https://cdn.rawgit.com/kavindraD/devtripVideo/master/simple/FlashVideoPlayer/Flash-AS3/doc/img/DTDM-H-1.png)
 
 ## Packages 
 

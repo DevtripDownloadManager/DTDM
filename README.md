@@ -1,7 +1,7 @@
 # DTDM
 Download Manager for PC, Tablets and Mobile devices, powered by DevTrip Download Manager developers and its' contributers.
 
-![](https://rawgit.com/DevtripDownloadManager/DTDM/tree/master/PCVersion/Windows/img/icon128x128.png)
+![](https://cdn.rawgit.com/kavindraD/devtripVideo/master/simple/FlashVideoPlayer/Flash-AS3/doc/img/icon128x128.png)
 
 ## Goal
 

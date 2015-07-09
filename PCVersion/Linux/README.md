@@ -12,7 +12,9 @@ This packages provide a download manager application, which can easily be instal
 
 #### rpm Installer
 
->`TBD`
+Download **DTDM.rpm** to use native installer with your Linux system.
+
+>`[TBD - Need to install and test the app.. Report the issue at devtrip.dev@gmail.com]`
 
 #### air Installer
 

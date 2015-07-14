@@ -17,8 +17,8 @@ It provide following packages for rich usability of devtrip download manager app
 
 #### PC version
 
-This package contains simple devtrip download manager installer for personal computers. This will have installer for Windows, Linux and Mac based systems.
->`Available for Windows. And for Mac, Linux installer AIR based installers are available [Native installers TBD for MAC and Linux].`
+This package contains simple devtrip download manager installer for personal computers. This will have installer for Windows (DTDM.air, DTDM.exe and DTDM.zip), Linux (DTDM.air, DTDM.rpm and DTDM.deb) and Mac (DTDM.air and DTDM.dmg) based systems.
+
 
 #### Tablet version
 

@@ -8,17 +8,26 @@ This packages provide a download manager application, which can easily be instal
 ## Packages 
 
 1. [rpm Installer](#rpm-installer)
-2. [air Installer](#air-installer)
+2. [deb Installer](#deb-installer)
+3. [air Installer](#air-installer)
 
 #### rpm Installer
 
 Download **DTDM.rpm** to use native installer with your Linux system.
 
->`[TBD - Need to install and test the app.. Report the issue at devtrip.dev@gmail.com]`
+>`[TBD - Need to install and test the app.. Please report the issue at devtrip.dev@gmail.com]`
+
+#### deb Installer
+
+Download **DTDM.deb** to use native installer with your Linux system.
+
+>`[TBD - Need to install and test the app.. Please report the issue at devtrip.dev@gmail.com]`
 
 #### air Installer
 
 Download **DTDM.air** to use AIR based installer with your system.
+
+>`[TBD - Need to install and test the app.. Please report the issue at devtrip.dev@gmail.com]`
 
 #### Note :
 
